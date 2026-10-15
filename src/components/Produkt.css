@@ -2,6 +2,10 @@
     background-color: dimgrey;
     color: white;
     text-align: center;
-    font-family: Caladea;
     padding-bottom: 10px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }

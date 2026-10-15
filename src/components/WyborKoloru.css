@@ -1,0 +1,11 @@
+.panel {
+    padding: 20px;
+    border-radius: 10px;
+    transition: 0.3s;
+    color: #08060d;
+}
+button{
+    margin: 5px;
+    padding: 10px 15px;
+    cursor: pointer;
+}
