@@ -5,6 +5,7 @@ import Produkt from './components/Produkt.jsx'
 import Galeria from './components/Galeria.jsx'
 import WyborKoloru from './components/WyborKoloru.jsx'
 import Formularz from "./components/Formularz.jsx";
+import ListaZakupow from "./components/ListaZakupow.jsx"
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
@@ -16,5 +17,7 @@ createRoot(document.getElementById('root')).render(
       <WyborKoloru />
       <h1>Rozdział 9</h1>
       <Formularz />
+      <h1>Rozdział 10</h1>
+      <ListaZakupow />
   </StrictMode>,
 )
